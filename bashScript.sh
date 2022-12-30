@@ -1,5 +1,3 @@
-#!/bin/bash
-
 while true
 do
 /usr/bin/sensors -j *-isa-* > sensorsOutput.json
