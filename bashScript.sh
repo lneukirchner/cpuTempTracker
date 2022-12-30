@@ -2,6 +2,6 @@
 
 while true
 do
-/usr/bin/sensors -j *-isa-* > sensorsOutput.json #gets "sensors" command output and sends it to a json file
+/usr/bin/sensors -j *-isa-* > sensorsOutput.json
 sleep 1
 done
