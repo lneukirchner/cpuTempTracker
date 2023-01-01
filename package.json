@@ -1,0 +1,19 @@
+{
+  "name": "cputemptracker",
+  "version": "1.0.0",
+  "description": "tracks the server temps",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lneukirchner/cpuTempTracker.git"
+  },
+  "author": "pie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lneukirchner/cpuTempTracker/issues"
+  },
+  "homepage": "https://github.com/lneukirchner/cpuTempTracker#readme"
+}
